@@ -34,7 +34,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - [Latest Phishing News](https://www.phishing.org/)
   - [CSO Cybersecurity Online](https://www.csoonline.com/)
   - [TAG Threat Analysis Group](https://blog.google/threat-analysis-group/)
-  - [RegEx](https://regexr.com/)
+  - [RegEx](https://regexr.com/) | [Cheatsheet](https://fireship.io/lessons/regex-cheat-sheet-js/)
   - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 <h2>Certifications</h2>
