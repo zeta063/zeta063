@@ -13,6 +13,25 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - NIST CSF Framework
+  - Incident Response
+  - Phishing Playbook
+  - Linux command lines
+  - SQL
+  - Automating tasks with Python
+  - [Google Cloud Networking Overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview) 
+ 
+  <b>Cybersecurity News, Communities, and other Resources</b>
+  - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
+  - [Dark Reading](https://www.darkreading.com/)
+  - [Krebs on Security](https://krebsonsecurity.com/)
+  - [SANS OUCH! Newsletters free security awareness](https://www.sans.org/newsletters/ouch/)
+  - [ScamWatch](https://www.scamwatch.gov.au/)
+  - [Latest Phishing News](https://www.phishing.org/)
+  - [CSO Cybersecurity Online](https://www.csoonline.com/)
+  - [TAG Threat Analysis Group](https://blog.google/threat-analysis-group/)
+  - [RegEx](https://regexr.com/)
+  - [VirusTotal](https://www.virustotal.com/gui/home/upload)
 
 <h2>Certifications</h2>
 
