@@ -36,6 +36,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - [TAG Threat Analysis Group](https://blog.google/threat-analysis-group/)
   - [RegEx](https://regexr.com/) | [Cheatsheet](https://fireship.io/lessons/regex-cheat-sheet-js/)
   - [VirusTotal](https://www.virustotal.com/gui/home/upload)
+  - [Chronicle SIEM tool overview/How to](https://cloud.google.com/chronicle/docs/review-security-alert)
 
 <h2>Certifications</h2>
 
