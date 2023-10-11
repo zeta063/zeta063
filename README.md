@@ -11,13 +11,17 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
 
 <h2>👨‍💻 Cybersecurity Projects:</h1>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+- <b>Portfolio projects (coming soon)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - NIST CSF Framework
-  - Incident Response
+  - Conducting a security audit
+  - Analyzing network structure and security
   - Phishing Playbook
-  - Linux command lines
-  - SQL
+  - Using Linux commands to manage file permissions
+  - Applying filters to SQL queries
+  - Identifying vulnerabilities for a small business
+  - Documenting incidents with an incident handler’s journal
+  - Importing and parsing a text file in a security-related scenario
   - Automating tasks with Python
   - [Google Cloud Networking Overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview) 
  
