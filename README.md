@@ -18,7 +18,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - Analyzing network structure and security
   - Phishing Playbook
   - Using Linux commands to manage file permissions
-  - Applying filters to SQL queries
+  - [Applying filters to SQL queries](Apply-filters-to-SQL-queries.docx)
   - Identifying vulnerabilities for a small business
   - Documenting incidents with an incident handler’s journal
   - Importing and parsing a text file in a security-related scenario
