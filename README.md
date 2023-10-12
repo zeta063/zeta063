@@ -25,7 +25,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - Automating tasks with Python
   - [Google Cloud Networking Overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview) 
  
-  <b>Cybersecurity News, Communities, and other Resources</b>
+  <b>📰Cybersecurity News, Communities, and other Resources</b>
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
   - [Dark Reading](https://www.darkreading.com/)
   - [Krebs on Security](https://krebsonsecurity.com/)
@@ -38,7 +38,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - [VirusTotal](https://www.virustotal.com/gui/home/upload)
   - [Chronicle SIEM tool overview/How to](https://cloud.google.com/chronicle/docs/review-security-alert)
 
-<h2>Certifications</h2>
+<h2>🏅Certifications</h2>
 
 - [Google Cybersecurity Professional Certification](https://www.coursera.org/account/accomplishments/professional-cert/NP8QGUZSAN5A)
 - [Google Foundation of Project Management](https://www.coursera.org/account/accomplishments/verify/4UA4QQJGD4YA)
