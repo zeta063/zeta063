@@ -23,7 +23,12 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
   - Documenting incidents with an incident handler’s journal
   - Importing and parsing a text file in a security-related scenario
   - [Automating tasks with Python](https://github.com/zeta063/PythonAutomation/blob/b7e715f88b6be016859036947dd40c436491b9b3/README.md)
-  - [Google Cloud Networking Overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview) 
+  - [Google Cloud Networking Overview](https://cloud.google.com/blog/topics/developers-practitioners/google-cloud-networking-overview)
+ 
+<h2>Virtual Environments:</h1>
+
+- <b>Portfolio projects</b>
+  - Virtual network simulation
  
   <b>📰Cybersecurity News, Communities, and other Resources</b>
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
