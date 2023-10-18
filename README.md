@@ -28,7 +28,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
 <h2>Virtual Environments:</h1>
 
 - <b>Portfolio projects</b>
-  - Virtual network simulation
+  - [Virtual network simulation](https://github.com/zeta063/Virtualnetworksim/blob/c8b44bdef390eb0f8b031f4f7e043d27b8ef9e19/README.md)
  
   <b>📰Cybersecurity News, Communities, and other Resources</b>
   - [OWASP Top 10](https://owasp.org/www-project-top-ten/)
