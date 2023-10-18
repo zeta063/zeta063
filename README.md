@@ -14,7 +14,7 @@ Recently completed the Google Cybersecurity Certificate, a rigorous, skills-base
 - <b>Portfolio projects (coming soon)</b>
   - [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
   - NIST CSF Framework
-  - Conducting a security audit
+  - [Conducting a security audit](https://github.com/zeta063/Conducingsecurityaudit/blob/816054af541df883b2e826f9d8926e6cf747233e/README.md)
   - Analyzing network structure and security
   - Phishing Playbook
   - Using Linux commands to manage file permissions
